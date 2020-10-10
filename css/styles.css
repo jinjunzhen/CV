@@ -84,6 +84,11 @@ a:hover {
   position: relative;
 }
 
+.third-container{
+  position: relative;
+  background-color: #a3d8f4;
+}
+
 .middle-container {
   margin: 100px 0;
 }
