@@ -61,11 +61,7 @@ hr {
 .imgContainer{
   margin: 40px 20px;
 }
-.contentContainer{
 
-  
-
-}
 
 .footer-link{
   font-size: 130%;
@@ -85,9 +81,17 @@ a:hover {
 }
 
 .third-container{
+  border-radius: 10%;
+  position: relative;
+  background-color: #fafcc2;
+}
+
+.forth-container{
   position: relative;
   background-color: #a3d8f4;
 }
+
+
 
 .middle-container {
   margin: 100px 0;
